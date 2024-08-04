@@ -14,9 +14,8 @@
   "author": "Ramesh Adhikari",
   "license": "ISC",
   "description": "",
-  "devDependencies":{
-  "nodemon": "3.1.4"
+  "devDependencies": {
+    "nodemon": "3.1.4",
+    "prettier": "^3.3.3"
   }
 }
-
-
